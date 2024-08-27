@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @YasteneMoussaoui
+- اسمي الكامل: ياستن موساوي
 - 👀 I’m interested in IT and Computer Science
 - 🌱 I’m currently learning JS and IT
 - 💞️ I’m looking to collaborate on projects
